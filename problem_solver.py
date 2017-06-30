@@ -1,4 +1,7 @@
 #!/usr/bin/env python 
 
 
-print "42"
+if __name__ == "__main__":
+    print "42"
+    print "42"
+
